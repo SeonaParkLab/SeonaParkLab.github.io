@@ -31,31 +31,6 @@ Publications
 
 - Park, S., & Yun, S.-J. (2018). Opposition to and Acceptance of Siting Solar Power Facilities from the Place Attachment Viewpoint. *ECO*, 22(2), 265–315. [in Korean]
 
-Review paper
-------
-
-News Column
-------
-
-Outreach
-------
-
-Research projects
-======
-
-| Responsibility | Academic/Service | Assignment Name | Support Institution | Study Period |
-|:--------------:|:----------------:|:---------------:|:-------------------:|:------------:|
-|                |                  |                 |                     |              |
-|                |                  |                 |                     |              |
-|                |                  |                 |                     |              |
-|                |                  |                 |                     |              |
-|                |                  |                 |                     |              |
-|                |                  |                 |                     |              |
-|                |                  |                 |                     |              |
-|                |                  |                 |                     |              |
-
-
-
 
 Research topic
 ======
