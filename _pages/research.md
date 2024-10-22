@@ -34,8 +34,8 @@ Publications
 
 
 
-<h1 style="margin-bottom: 0; margin-top: 10px;">Research topic</h1>
-<h2 style="margin-top: 3px;">RE Regulation comparative study between CN, KR and JP</h2>
+<h1 style="margin-bottom: 0; margin-top: 50px;">Research topic</h1>
+<h2 style="margin-top: 6px;">RE Regulation comparative study between CN, KR and JP</h2>
 
 Problem: regulations hinder renewable energy installation
   * with Korea Environment Institute (KR), Mitsubishi Research Institute (JP)
