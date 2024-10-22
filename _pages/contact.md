@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<p align="center"> 
-     <img src="../images/4.png" width="650"> 
-</p>
+- **Map**:
+- **Address**: 1 Duxue Road, Nansha District, Guangzhou, Hong Kong University of Science and Technology (Guangzhou).
+- **Office Phone Number**: 020-88336690
+
+
