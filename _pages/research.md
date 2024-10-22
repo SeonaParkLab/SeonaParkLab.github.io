@@ -34,6 +34,7 @@ Publications
 
 Research topic
 ======
+
 RE Regulation comparative study between CN, KR and JP 
 ---
 Problem: regulations hinder renewable energy installation
