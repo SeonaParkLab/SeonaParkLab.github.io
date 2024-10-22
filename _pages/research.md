@@ -32,11 +32,8 @@ Publications
 - Park, S., & Yun, S.-J. (2018). Opposition to and Acceptance of Siting Solar Power Facilities from the Place Attachment Viewpoint. *ECO*, 22(2), 265–315. [in Korean]
 
 
-Research topic
-======
-
-RE Regulation comparative study between CN, KR and JP 
----
+# Research topic
+## RE Regulation comparative study between CN, KR and JP 
 Problem: regulations hinder renewable energy installation
   * with Korea Environment Institute (KR), Mitsubishi Research Institute (JP)
   * \<International Comparative Study of Renewable Energy for the Transition to Sustainable Energy\> (2024.05.01.~2025.4.30.)
