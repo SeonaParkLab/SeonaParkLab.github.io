@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Professor Seona Park"
+title: "Welcome to Professor Seona Park’s Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+This is the official website of Professor Seona park’s lab team at the Hong Kong University of Science and Technology (Guangzhou).
+Our goal is to become a growing community together
 
+
+<h1 style="margin-bottom: 0; margin-top: 50px;">Professor Seona Park</h1>
 
 - Assistant Professor
   
