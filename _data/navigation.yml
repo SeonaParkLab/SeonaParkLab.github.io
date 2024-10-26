@@ -16,7 +16,7 @@ main:
     url: /publications/  
     
   - title: "Group"
-    url: /group/
+    url: /members/
 
   - title: "News"
     url: /news/
