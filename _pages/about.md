@@ -16,6 +16,7 @@ Professor Seona Park
 *[The Hong Kong University of Science and Technology (Guangzhou)](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/PARK-Seona/seonapark)*
 
 Professor Seona Park is an assistant professor of the Carbon Neutrality and Climate Change (CNCC) and Innovation, Policy, and Entrepreneurship (IPE)  at the Hong Kong University of Science and Technology (Guangzhou). She received her PhD in City Planning from Seoul National University, South Korea. Before joining HKUST(GZ) in 2024, she was a postdoctoral fellow at the Center for Anthropocene Studies, Korea Advanced Institute of Science and Technology (KAIST) and a researcher at the Korea Environment Institute (KEI).
+
 Professor Park specializes in the social dynamics of climate and energy policy, with deep field experience in energy transition such as solar power, offshore wind power, and coal phase-out. She has published articles rooted in environmental sociology in the prestigious journals such as Renewable and Sustainable Energy Reviews, Energy Policy, Energy Research & Social Science, and etc. While deeply engaged in the international literature on energy policy, she received the Outstanding Reviewer Award, Energy Research & Social Science 2023 (top 1% reviewer based on a mix of quality of reviews and quantity).
 
 Education
