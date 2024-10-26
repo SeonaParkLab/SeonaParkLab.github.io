@@ -21,6 +21,7 @@ Research Interests
 
 <h1 style="margin-bottom: 0; margin-top: 50px;">Selected Work in progress</h1>
 <h2 style="margin-top: 6px;">(1) Offshore Wind Power</h2>
+
 - Diverse legal settings across countries
 - Involvement of stakeholders and local communities
 
