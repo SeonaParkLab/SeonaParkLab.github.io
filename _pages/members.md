@@ -99,5 +99,5 @@ redirect_from:
     - 2024 Best Research-based Capstone Project in School of Accounting and Finace, The Hong Kong Polytechnic University
       
   - **Contacts**
-    - lzthhxx@163.com![图片](https://github.com/user-attachments/assets/9b5b6615-4f3e-4af5-ba20-ed7b6b0a7aaf)
+    - lzthhxx@163.com
 
