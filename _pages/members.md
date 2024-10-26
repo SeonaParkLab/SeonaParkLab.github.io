@@ -14,7 +14,7 @@ redirect_from:
 **_Ph.D. students_**
 
 - **Jing Yu**
-  
+
   - **Research Interests**
     - Offshore wind power
     - marine ecosystem
@@ -37,15 +37,67 @@ redirect_from:
 
 **_M.Phil. students_**
 
-<!-- * **Wenshuo Chao**, undergraduate from HKUST. -->
+- **LI Yifei**
+  
+  - **Research Interests**
+    - Green Finance
+    - Climate Change
+    - Energy  Policy
+    - ESG Management
+ 
+  - **Publication**
+    - Li, M., Li, Y., & Xiao, D. Influence and Mechanism of Green Finance on Environmental Violations in Heavy-Polluting Enterprises—A Quasi-Experimental Design Based on China’s Green Finance Reform and Innovation Pilot Zone Policy. sustainable development, 2, 3.
 
-- **LI Yifei**\\
-  Research fields: Green Finance, Climate Change, Energy  Policy and ESG Management.
+  - **Research Experience**
+    - Econometric
+    - Communication studies
+    - survey
+    - Machine Learning
+
+  - **Contact**
+    - yli924@connect.hkust-gz.edu.cn
+
 
 **_Research Assistant_**
 
-- **Zhuotao LU**, MSc from The Hong Kong Polytechnic University.\\
-  Research fields: ESG and Sustainability, Carbon Trading and Carbon Markets, Climate Change Economics and Sociology.
+- **Fan LI**
+  
+  - **Research Interests**
+    - Climate Neutrality Policies in Asia
+    - Climate Change and Sustainability
+    - ESG and Corporate governance
 
-- **Fan LI**, MA from National University of Singapore.\\
-  Research fields: Climate Neutrality Policies in Asia, Climate Change and Sustainability, ESG and Corporate governance.
+  - **Education**
+    - MA, Master of Science in Chemistry for Energy and Environment, National University of Singapore
+    - BA, Bachelor of Agronomy in Forestry, South China Agricultural University
+
+  - **Work Experience**
+    - ESG Senior Analyst, Climate Change and Sustainability Department, Ernst & Young Hua Ming LLP Guangzhou Branch
+    - ESG Senior Analyst, Climate Change and Sustainability Department, PwC Consulting (Shenzhen) Co., Ltd. Guangzhou Branch
+
+  - **Email**
+    - fanl@hkust-gz.edu.cn
+
+
+- **Zhuotao LU**
+  
+  - **Research Interests**
+    - ESG and Sustainability
+    - Carbon Trading and Carbon Markets  
+    - Climate Change Economics and Sociology
+      
+  - **Education**
+    - MSc, Master of Science in ESG and Sustainability, The Hong Kong Polytechnic University
+    - BA, Bachelor of International Economics and Trade, Guangdong University of Finance and Economics
+
+  - **Research Experience**
+    - Research on Climate Policy and Corporate Greenwashing in ESG Practices
+    - Research on Financing patterns of the Photovoltaic Industry
+
+  - **Awards**
+    - 2021 National scholarship
+    - 2024 Best Research-based Capstone Project in School of Accounting and Finace, The Hong Kong Polytechnic University
+      
+  - **Contacts**
+    - lzthhxx@163.com![图片](https://github.com/user-attachments/assets/9b5b6615-4f3e-4af5-ba20-ed7b6b0a7aaf)
+
