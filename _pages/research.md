@@ -9,6 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+
+Research Interests
+======
+- Energy Justice and Energy Policy
+- Just Transition
+- Social Impact of Renewable Energy Facilities
+- Carbon Lock-in
+- Place Attachment
+- Collaborative Planning
+
+Selected Work in progress
+=====
+
+## (1) Offshore Wind Power
+- Diverse legal settings across countries
+- Involvement of stakeholders and local communities
+
+## (2) Coal Power
+- Just transition and labor
+- Local impact of phasing out coal
+
+## (3) Climate Communication
+- Experimental research using immersive media
+- Energy literacy scale development
+
+
 Publications
 ======
 - Park, S., Yun, S.-J., & Cho, K. (2024). Energy justice: Lessons from offshore wind farm siting conflicts in South Korea. *Energy Policy*, 185, 113972. [https://doi.org/10.1016/j.enpol.2023.113972](https://doi.org/10.1016/j.enpol.2023.113972) (IF=9)
