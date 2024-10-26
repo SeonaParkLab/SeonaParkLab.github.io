@@ -19,8 +19,7 @@ Research Interests
 - Place Attachment
 - Collaborative Planning
 
-Selected Work in progress
-=====
+<h1 style="margin-bottom: 0; margin-top: 50px;">Selected Work in progress</h1>
 
 ## (1) Offshore Wind Power
 - Diverse legal settings across countries
@@ -35,8 +34,7 @@ Selected Work in progress
 - Energy literacy scale development
 
 
-Publications
-======
+<h1 style="margin-bottom: 0; margin-top: 60px;">Publications</h1>
 - Park, S., Yun, S.-J., & Cho, K. (2024). Energy justice: Lessons from offshore wind farm siting conflicts in South Korea. *Energy Policy*, 185, 113972. [https://doi.org/10.1016/j.enpol.2023.113972](https://doi.org/10.1016/j.enpol.2023.113972) (IF=9)
 
 - Park, S., Kim, H. S., & Yun, S.-J. (2022). Predicting PM2.5 reduction behavior among college students: The role of beliefs and descriptive norms. *Sustainable Environment*. [https://doi.org/10.1080/27658511.2022.2079190](https://doi.org/10.1080/27658511.2022.2079190) (IF=2.3 (ESCI))
