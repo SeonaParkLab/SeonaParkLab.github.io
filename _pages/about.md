@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "Welcome to Professor Seona Park’s lab web"
+title: "Professor Seona Park"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Professor Seona Park
-======
+
+
 - Assistant Professor
   
 *[Thrust of Carbon Neutrality and Climate Change](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/PARK-Seona/seonapark)*  
