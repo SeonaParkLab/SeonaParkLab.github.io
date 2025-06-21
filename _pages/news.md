@@ -36,6 +36,8 @@ We welcome applicants with their own research ideas in these or closely related 
 - Commitment to engaging with contemporary environmental challenges from a sociological perspective
 
 **Program Benefits**
+
+
 ✅ World-class training comparable to leading institutions
 ✅ Interdisciplinary mentorship from HKUST(GZ)'s research thrusts
 ✅ Career pathways in academia, policy think tanks, and green industries
@@ -57,16 +59,21 @@ We welcome applicants with their own research ideas in these or closely related 
 6. Two reference contacts
 
 ***Application Process:***
+
+
 Applications are accepted on a rolling basis starting in August 2025. The application window is expected to close in October 15 2025, but may close earlier if outstanding candidates are identified before the positions are filled.
 
 ## About the CNCC Program
 The Doctor of Philosophy in Carbon Neutrality and Climate Change (PhD in CNCC) at HKUST(GZ) provides specialized training to address the complex challenges arising from society's transition to a low-carbon future. As the first program of its kind in Asia, we equip students with:
+
 
   ✅ State-of-the-art knowledge at the intersection of climate science, policy, finance, and technology
   ✅ Advanced research capabilities to develop sustainable solutions for energy transitions
   ✅ Professional readiness for leadership roles in academia, research institutes, and industry
   
 **Our program emphasizes:**
+
+
 🔬 Cutting-edge research on carbon neutrality challenges
 🌍 Interdisciplinary approaches bridging policy, technology, and social systems
 💡 Innovative project-based training aligned with global standards
@@ -82,8 +89,10 @@ Graduates will emerge as pioneers capable of driving systemic change in the low-
 - Postgraduate Studentship: 15,000 CNY/month (~25K USD/year) 
 - University dormitory accommodation
 - Conference support
-- 
+
 **Contact:**
+
+
 Prof. Seona Park | [seonapark@hkust-gz.edu.cn](seonapark@hkust-gz.edu.cn)
 Program Website: [https://fytgs.hkust-gz.edu.cn/programs/2025-26/society-hub-2025-26/carbon-neutrality-and-climate-change](https://fytgs.hkust-gz.edu.cn/programs/2025-26/society-hub-2025-26/carbon-neutrality-and-climate-change)
 
