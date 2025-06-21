@@ -23,47 +23,59 @@ We welcome applicants with their own research ideas in these or closely related 
 **Methodologies:** Critical Discourse Analysis, text-mining, survey design, spatial analysis (GIS), machine-learning/NLP, case studies, and experimental approaches.
 
 ## Candidate Profile
-**Essential Qualifications:**
+**Essential Qualifications**
 - Master's degree in Sustainability Transition, Environmental Sociology, Urban Planning, Human Geography, Policy, or related fields
 - Demonstrated strong theoretical foundation in environmental sociology, including familiarity with key frameworks such as political ecology, risk society, and environmental justice
 - Experience in applying sociological theories to empirical research on environmental issues, demonstrated through prior publications, theses, or projects
 - Proven ability in qualitative and/or quantitative research methods; but open mind-set to learn and apply hybrid methodologies using AI
 - Strong academic writing ability and communication skills (English)
-- 
-**Preferred Assets:**
+  
+**Preferred Assets**
 - Experience in energy policy analysis or hands-on stakeholder engagement
 - Technical skills (GIS, statistical software, or survey design)
 - Commitment to engaging with contemporary environmental challenges from a sociological perspective
 
-## Position Details
-| Attribute | Details |
-|-----------|---------|
-| 📅 Intake | Spring 2026 / Fall 2026 |
-| ⏳ Duration | 3 years (for MPhil holders) / 4 years |
-| 💰 Funding | **15,000 CNY/month** stipend (~25K USD/year)<br>• University accommodation<br>• Conference travel support |
-| 🌐 Location | Hong Kong University of Science and Technology (Guangzhou) |
+**Program Benefits**
+✅ World-class training comparable to leading institutions
+✅ Interdisciplinary mentorship from HKUST(GZ)'s research thrusts
+✅ Career pathways in academia, policy think tanks, and green industries
+✅ Global network in the vibrant atmosphere of Southern China
 
-## Program Benefits
-- 🔭 World-class interdisciplinary mentorship
-- 📈 Career pathways in academia, policy think tanks, and green industries
-- 🌐 Global research network in Southern China's innovation hub
-- 💻 Access to cutting-edge research facilities
-
-## Application Process
-**Deadline:** Rolling admissions starting August 2025  
-**Final Deadline:** October 15, 2025 *(may close earlier if positions filled)*
-
-**Submission:** Email to [seonapark@hkust-gz.edu.cn](mailto:seonapark@hkust-gz.edu.cn) with subject:  
-`PhD CNCC Application - [Your Name]`
-
+## Candidate Profile
+**Deadline:** Early application is preferred
+**Submit to:** [seonapark@hkust-gz.edu.cn](seonapark@hkust-gz.edu.cn)
+**Subject:** "PhD CNCC Application - [Your Name]"
 **Required Documents:**
-1. Cover letter (1 page) aligning with CARE Lab's vision
-2. Curriculum Vitae with research experience
+1. Cover letter (1 page) aligning your goals with the CARE lab & CNCC program
+2. CV with detailed research experience
 3. Academic transcripts
-4. Writing sample (thesis chapter/publication)
-5. **Research proposal** (2-year dissertation outline)
-6. Contact information for two references
+4. Writing sample (e.g., thesis chapter)
+5. Research Proposal (2-year load individual dissertation proposal)
+6. Two reference contacts
+***Application Process:***
+Applications are accepted on a rolling basis starting in August 2025. The application window is expected to close in October 15 2025, but may close earlier if outstanding candidates are identified before the positions are filled.
 
----
+## About the CNCC Program
+The Doctor of Philosophy in Carbon Neutrality and Climate Change (PhD in CNCC) at HKUST(GZ) provides specialized training to address the complex challenges arising from society's transition to a low-carbon future. As the first program of its kind in Asia, we equip students with:
+  ✅ State-of-the-art knowledge at the intersection of climate science, policy, finance, and technology
+  ✅ Advanced research capabilities to develop sustainable solutions for energy transitions
+  ✅ Professional readiness for leadership roles in academia, research institutes, and industry
+**Our program emphasizes:**
+🔬 Cutting-edge research on carbon neutrality challenges
+🌍 Interdisciplinary approaches bridging policy, technology, and social systems
+💡 Innovative project-based training aligned with global standards
+Graduates will emerge as pioneers capable of driving systemic change in the low-carbon economy.
 
-*Please circulate widely to qualified candidates interested in advancing climate justice research.*
+## Position Details
+- Program/Degree: PhD in Carbon Neutrality and Climate Change (CNCC)
+- Focus Area: Energy Justice & Just Transition Policies
+- Expected intake: Spring 2025/26 or Fall 2026/27
+- Duration: 4 years (3 years for MPhil holders)
+**Funding:**
+- Postgraduate Studentship: 15,000 CNY/month (~25K USD/year) 
+- University dormitory accommodation
+- Conference support
+**Contact:**
+Prof. Seona Park | [seonapark@hkust-gz.edu.cn](seonapark@hkust-gz.edu.cn)
+Program Website: [https://fytgs.hkust-gz.edu.cn/programs/2025-26/society-hub-2025-26/carbon-neutrality-and-climate-change](https://fytgs.hkust-gz.edu.cn/programs/2025-26/society-hub-2025-26/carbon-neutrality-and-climate-change)
+
