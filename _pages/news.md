@@ -110,5 +110,7 @@ Graduates will emerge as pioneers capable of driving systemic change in the low-
 
 
 Prof. Seona Park | [seonapark@hkust-gz.edu.cn](seonapark@hkust-gz.edu.cn)
+
+
 Program Website: [https://fytgs.hkust-gz.edu.cn/programs/2025-26/society-hub-2025-26/carbon-neutrality-and-climate-change](https://fytgs.hkust-gz.edu.cn/programs/2025-26/society-hub-2025-26/carbon-neutrality-and-climate-change)
 
