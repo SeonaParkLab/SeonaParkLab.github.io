@@ -20,7 +20,7 @@ As part of the CARE Lab at HKUST (GZ), you will have the opportunity to work on 
 
 We welcome applicants with their own research ideas in these or closely related fields, who are eager to contribute to international, policy-relevant scholarship.
 
-**Methodologies:** Critical Discourse Analysis, text-mining, survey design, spatial analysis (GIS), machine-learning/NLP, case studies, and experimental approaches.
+**Methodologies:** Critical Discourse Analysis, text-mining, case study, Survey, experimental designs, GIS, urban planning methods, Machine-learning, NLP, etc.
 
 ## Candidate Profile
 **Essential Qualifications**
